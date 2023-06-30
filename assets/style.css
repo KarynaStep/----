@@ -8,7 +8,6 @@
 }
 
 body {
-
   width: auto;
   max-width: 1800px;
   min-width: 600px;
@@ -43,9 +42,8 @@ ul {
 }
 
 .language-item:hover {
-  color: #ffffff80;
+  color: #ffffff;
 }
-
 /* address-header */
 
 /* nav+menu */
